@@ -1,0 +1,15 @@
+table td{
+    width:100px;
+    height: 100px;
+    border: 1px solid gray;
+}
+table{
+    border-collapse: collapse;
+
+}
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 150px;
+}
